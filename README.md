@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mrirshathbscit@gmail.com**
 
+-👨‍💻 Check Out Some of My Works - <a href="https://www.beupd.com/">Beupd - A Newsletter Webpage</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.github.com/Irshath-git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="30" width="40" align="center"/></a> 
