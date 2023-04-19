@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mrirshathbscit@gmail.com**
 
-- 👨‍💻 Check Out Some of My Works <br/>
+- <b>👨‍💻 Check Out Some of My Works </b><br/>
 
 - 1) <a href="https://www.beupd.com/">Beupd - A Newsletter Webpage</a>
 - 2) <a href="https://zenclone-portal.netlify.app/">Zen Portal - Edtech webpage</a>
