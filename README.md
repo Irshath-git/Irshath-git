@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshath-git&label=Profile%20views&color=0e75b6&style=flat" alt="irshath-git" /> </p>
 
-- <a href="https://www.irshath-dev.netlify.app/">🔭 **My-Personal-Portfolio** </a>
+- <a href="http://irshath-dev.netlify.app/">🔭 **My-Personal-Portfolio** </a>
 
 - 💬 Ask me about **MERN**
 
